@@ -1,0 +1,9 @@
+dagster==1.8.9
+dagster-dbt==0.24.9
+dagster-fivetran==0.24.9
+dagster-webserver==1.8.9
+dbt-osmosis==0.13.2
+dbt-snowflake==1.8
+duo_universal
+sqlfluff-templater-dbt==3.1
+pre-commit==3.8.0

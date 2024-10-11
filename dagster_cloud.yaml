@@ -1,0 +1,8 @@
+locations:
+  - location_name: ndr
+    code_source:
+      package_name: ndr
+    # TODO: Resolve GHA to use existing Dagster/dbt directories instead
+    # of copying Dagster data into root to re-enable this.
+    # build:
+    #   directory: ./dagster
