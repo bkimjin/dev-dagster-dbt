@@ -9,7 +9,7 @@ setup(
         ],
     },
     install_requires=[
-        "dagster==1.8.9",
+        "dagster==1.10.16",
         "dagster-cloud==1.8.9",
         "dagster-dbt==0.24.9",
         "dagster-fivetran==0.24.9",
